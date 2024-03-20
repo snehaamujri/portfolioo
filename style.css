@@ -32,7 +32,7 @@ nav{
 
 }
 .logo{
-    width:150px;
+    width:100px;
 }
 nav ul li{
     display:inline-block;
@@ -74,7 +74,7 @@ nav ul li a:hover::after{
 }
 /*-----------about------------*/
 #about{
-    padding :250px 0;
+    padding :100px 0;
     color:#ababab;
 }
 .row{
@@ -149,7 +149,7 @@ nav ul li a:hover::after{
 }
 /*--------portfolio---------*/
 #portfolio{
-    padding:900px 0 10px ;
+    padding:250px 0 10px ;
 
 }
 .work-list{
